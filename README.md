@@ -28,3 +28,6 @@
 
 ### 警告
 本项目为业余时间开发的一个娱乐性项目，仅供学习娱乐使用，可能存在许多未知的漏洞，切勿用于非法用途。
+
+### 演示
+![](https://raw.githubusercontent.com/H4ckx7/tsrat/master/home.png)
